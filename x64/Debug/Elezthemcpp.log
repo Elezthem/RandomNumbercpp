@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\hendr\source\repos\Elezthemcpp\Elezthemcpp\main.cpp(8,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Elezthemcpp.vcxproj -> C:\Users\hendr\source\repos\Elezthemcpp\x64\Debug\Elezthemcpp.exe
